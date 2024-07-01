@@ -1,0 +1,32 @@
+* {
+    font-family: 'roboto', sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    flex-flow: row nowrap;
+    flex: 1 1 auto;
+    justify-content: space-between;
+    padding: 0px 200px;
+ 
+}
+
+.header-container {
+    display: flex;
+    gap: 20px;
+    color: #E5E7EB;
+    size: 18px;
+
+}
+
+h3 {
+    color: #faf9fa;
+    size: 24px;
+    font-family: 'roboto', sans-serif;
+}
