@@ -3,8 +3,8 @@
 }
 
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
   }
 
 .header {
@@ -88,7 +88,7 @@ h1 {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 200px;
    
 }
 
@@ -116,4 +116,14 @@ h1 {
     font-size: 18px;
     color: gray;
 }
+
+.section-3 {
+    display: flex;
+    flex-flow: column;
+    padding: 130px 340px;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: flex-end;
+}
+
 
