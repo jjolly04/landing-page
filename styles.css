@@ -137,13 +137,24 @@ button {
     display: flex;
     padding: 20px 150px;
     width: 1050px;
-    height: 100px;
+    height: 120px;
     flex-flow: row nowrap;
     background-color: #3882f6;
     border-radius: 10px;
 
     justify-content: space-between;
     align-items: center;
+}
+
+.footer {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+
 }
 
 
